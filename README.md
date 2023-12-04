@@ -1,5 +1,5 @@
 # Demos
 This is my first Git Repository.
 <br>
-Author - Divya.
+Author - Divya Daraniya.
 
